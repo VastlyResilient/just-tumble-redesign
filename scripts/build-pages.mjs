@@ -4,7 +4,7 @@ const base='/just-tumble-redesign/';
 for(const name of await readdir('dist/client/assets')){
  if(!name.endsWith('.js'))continue;
  const path='dist/client/assets/'+name;let s=await readFile(path,'utf8');
- s=s.replace(/(["'`])\/(?!just-tumble-redesign\/)(?=[a-zA-Z])/g,(_,quote)=>quote+base);
+ s=s.replace(/(?<!\+)(["'`])\/(?!just-tumble-redesign\/)(?=[a-zA-Z])/g,(_,quote)=>quote+base);
  s=s.replace(/href:"\/"/g,'href:"'+base+'"');
  await writeFile(path,s);
 }
