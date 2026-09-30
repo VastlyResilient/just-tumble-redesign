@@ -1,0 +1,1288 @@
+{
+  "north-haven-portal/customer-portal": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/login",
+    "status": 0
+  },
+  "north-haven-portal/booking": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/booking",
+    "status": 0
+  },
+  "north-haven-portal/proshop": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/products",
+    "status": 0
+  },
+  "north-haven-portal/staff": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/team",
+    "status": 0
+  },
+  "north-haven-portal/news": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/news",
+    "status": 0
+  },
+  "north-haven-portal/gift-certificates": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/gift-certificate",
+    "status": 0
+  },
+  "north-haven-portal/parties": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumblenorthhaven/party-booking-01-date",
+    "status": 0
+  },
+  "north-haven-portal/classes": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes",
+    "status": 0
+  },
+  "north-haven-portal/clinics": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/camps/8?sortBy=time",
+    "status": 0
+  },
+  "north-haven-portal/preschool": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?programs=17",
+    "status": 0
+  },
+  "north-haven-portal/tumble-tots": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?q=tots&programs=17",
+    "status": 0
+  },
+  "north-haven-portal/play-group": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?q=play%20group&programs=17",
+    "status": 0
+  },
+  "north-haven-portal/ninja-sport-3-5": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?ages=4&programs=74",
+    "status": 0
+  },
+  "north-haven-portal/ninja-sport-5-9": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?ages=7&programs=74",
+    "status": 0
+  },
+  "north-haven-portal/school-age-tumble": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?levels=20",
+    "status": 0
+  },
+  "north-haven-portal/tumble-beginners": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?levels=4,18&programs=57",
+    "status": 0
+  },
+  "north-haven-portal/tumble-intermediate": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?levels=7&programs=57",
+    "status": 0
+  },
+  "north-haven-portal/tumble-advanced": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?levels=3&programs=57",
+    "status": 0
+  },
+  "north-haven-portal/tumble-mixed": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/classes?levels=10&programs=57",
+    "status": 0
+  },
+  "north-haven-portal/camps": {
+    "title": "North Haven Portal\n",
+    "lines": [
+      "North Haven"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumblenorthhaven/camps/1?sortBy=time",
+    "status": 0
+  },
+  "portal/customer-portal": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/login",
+    "status": 0
+  },
+  "portal/booking": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/booking",
+    "status": 0
+  },
+  "portal/proshop": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/products",
+    "status": 0
+  },
+  "portal/staff": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/team",
+    "status": 0
+  },
+  "portal/news": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/news",
+    "status": 0
+  },
+  "portal/gift-certificates": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/gift-certificate",
+    "status": 0
+  },
+  "portal/parties": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/portal/justtumble/party-booking-01-date",
+    "status": 0
+  },
+  "portal/classes": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes",
+    "status": 0
+  },
+  "portal/clinics": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/camps/8?sortBy=time",
+    "status": 0
+  },
+  "portal/play-group": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?q=play",
+    "status": 0
+  },
+  "portal/tumble-tots": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?q=tots",
+    "status": 0
+  },
+  "portal/preschool-tumble": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?programs=79",
+    "status": 0
+  },
+  "portal/ninja-sport-3-5": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?ages=4&programs=74",
+    "status": 0
+  },
+  "portal/ninja-sport-5-9": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?ages=7&levels=21",
+    "status": 0
+  },
+  "portal/tumble-beginners": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?levels=4,18&programs=57",
+    "status": 0
+  },
+  "portal/tumble-intermediate": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?levels=7&programs=57",
+    "status": 0
+  },
+  "portal/tumble-advanced": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?levels=3,14&programs=57",
+    "status": 0
+  },
+  "portal/tumble-mixed": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/classes?levels=10&programs=57",
+    "status": 0
+  },
+  "portal/camps": {
+    "title": "Shelton Portal\n",
+    "lines": [
+      "Shelton"
+    ],
+    "portal": "https://portal.iclasspro.com/justtumble/camps/1?sortBy=time",
+    "status": 0
+  },
+  "faqs": {
+    "title": "\n    Tumble Training Facility FAQs | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "POPULAR QUESTIONS",
+      "Got a question? We\u2019re here to help.",
+      "What are your business hours?",
+      "Regular class hours North Haven Location",
+      "Monday Playgroup 9:30AM- 11:00AM & Classes 4:30PM-8:30PM",
+      "Tuesday Playgroup 9:30AM-11:00AM & Classes 4:30PM-8:15PM",
+      "Wednesday Playgroup 9:30AM-12:00PM & Classes 4:30PM-8:30PM",
+      "Thursday Classes 4:30PM-8:15PM",
+      "Saturday Classes 8:00am-1:15pm",
+      "Sunday Classes 9:00am-12:00PM",
+      "Hours for private lessons and gym rentals vary by instructor and availability. For private lessons you can either go to our private lesson tab or contact us directly. for rental spaces please contact us directly.",
+      "What should my student wear?",
+      "*Hair pulled up securely, no hard hair accessories such as head bands and hair clips.",
+      "*No jewelry (little stud earrings are ok)",
+      "*T-shirt/tank top, shorts - no bare midriffs",
+      "* Grippy socks or clean cheer shoes - no bare feet \ud83e\uddb6or street shoes \ud83d\udc5f",
+      "*A Big SMILE",
+      "*Bring a water bottle labeled with name.",
+      "*leave valuables at home",
+      "*there are cubbies to put belongings.",
+      "Can I stay to watch my child?",
+      "Yes, you are welcome to stay and watch but once your student is comfortable attending, you are welcome to leave. Please make sure all of your contact information is up to date in your account.",
+      "How long do I have to commit to classes for?",
+      "Our classes are rolling, meaning they run all year. When a student ages out or levels up, our staff will suggest new classes to move up to. You may cancel at any time with 30 days notice to the first of the month. If your schedule changes, we can help you find a new class.",
+      "Is there a sibling discount or a multi class discount?",
+      "We offer a 20% sibling discount or 20% multi class discount off the additional classes. There are no discounts on the yearly registration fee.",
+      "Can anyone join a team?",
+      "At Just Tumble we do not have teams to join but we do support numerous youth, High School and College chear teams with lessons.",
+      "We also help out with group private classes for Dance Schools.",
+      "How long has Just Tumble been in business?",
+      "Just Tumble was born in 2012 in Shelton, CT. A second amazing location opened in North Haven on January 1, 2024.",
+      "Can I get a full refund?",
+      "Just Tumble does not currently offer full refunds. If your child is unable to attend a scheduled class, we are happy to provide make-up class options based on availability. In the event of an injury, we offer the option to pause your child\u2019s membership until they are medically cleared to return with documentation from a licensed physician. For additional information or assistance please contact us directly.",
+      "CONTACT US"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "job-opportunities": {
+    "title": "\n    Job Opportunities | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "JOB OPPORTUNITIES",
+      "Review some of the roles we have at American Gym Stars",
+      "To learn more about us, your first step would be to browse our website, where you can learn about our history, philosophy, programs, and teams.",
+      "Read through some of various positions and fill out an application.",
+      "All Applications must be submitted online.",
+      "Once your online application is received, your application will be forwarded to the hiring manager.",
+      "Apply Today",
+      "Place a job description or information here",
+      "Apply Now",
+      "PROGRAM SUPERVISORS",
+      "Place job description of information here.",
+      "Apply Now",
+      "TEAM COACHES",
+      "Place your job description or information here.",
+      "Learn more",
+      "CLASS INSTRUCTORS",
+      "Place your your job description or information here.",
+      "Apply now"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "about-us": {
+    "title": "\n    Tumble Training Facility | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "ABOUT US",
+      "JUST TUMBLE'S STORY",
+      "Just Tumble didn\u2019t start in a building.",
+      "It started on football fields, with a small group of passionate coaches and one simple belief: when athletes learn how to move their bodies",
+      "efficiently and correctly",
+      ", they can achieve far more than they ever thought possible.",
+      "Founded by Jason, Just Tumble grew out of years of hands-on experience teaching athletes how to understand their bodies\u2014not just perform skills. From those early days teaching tumbling outdoors, the program steadily evolved into something bigger. Today, Just Tumble is a multi-facility company with over 45 dedicated employees, welcoming athletes from across New England who seek high-quality instruction from coaches who truly care.",
+      "What truly sets us apart isn\u2019t just where we\u2019ve been\u2014it\u2019s",
+      "why we do what we do",
+      ".",
+      "Our motto, \u201cSkills and Smiles for Every Child,\u201d isn\u2019t just a phrase on the wall. It\u2019s the standard we coach by every single day. Our team of talented, experienced, and passionate professionals brings expertise not only in tumbling, but in encouragement, confidence-building, and creating an environment where athletes feel safe, supported, and excited to learn.",
+      "Over the years, our students have included recreational athletes, high school competitors, All-Star National Champions, gymnasts, dancers, divers, football and basketball players (including an NFL prospect), TV and movie personalities, and even snowboarders. Yet the most important students to us are the ones who walk through our doors ready to learn, ready to have fun, and ready to just tumble.",
+      "At Just Tumble, we are united by one clear goal: to help every student grow\u2014regardless of age, background, or athletic path. We achieve this by focusing on what matters most:",
+      "Structured, intentional classes",
+      "One of the best coach-to-student ratios possible",
+      "Clear expectations for progression, accountability, and safety",
+      "When athletes leave our gym, they leave with more than new skills. They leave with confidence, pride, and a smile\u2014because at Just Tumble, Skills and Smiles for Every Child is not just our motto, it\u2019s our promise.",
+      "We\u2019re excited to help your child or athlete grow in skill, confidence, and joy.",
+      "Contact us today to discuss your goals and discover how Just Tumble can help make them a reality.",
+      "Our Mission",
+      "\"Our mission is to provide each student with a safe and fun environment to improve upon not only their skills, but their SELF CONFIDENCE, STRENGTH, PROBLEM SOLVING SKILLS and most importantly PROPER TECHNIQUE\"",
+      "\"We believe in every student\u2019s unique goals, and individual progression. It is important to us that all our students feel supported and encouraged, and these principles guide everything we do.\"",
+      "JUST TUMBLE VISION",
+      "JOB OPPORTUNITIES",
+      "FOLLOW US",
+      "Interested In Working With Just Tumble?",
+      "APPLY TODAY!"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "birthday-parties": {
+    "title": "\n    Birthday Parties | Just Tumble CT | North Haven\n  ",
+    "lines": [
+      "IT'S YOUR BIRTHDAY!",
+      "BASIC PARTY",
+      "Active JT Member",
+      "$329",
+      "BOOK NOW",
+      "*includes 15 children",
+      "Additional guests $20 each. Maximum 24 total",
+      "Full use of facility for 1.5 hour party",
+      "Birthday Party set up options",
+      "Free play",
+      "-1-3 years",
+      "(parents required on mat)",
+      "Obstacle course",
+      "~ ages 3 & up",
+      "Basic Tumbling",
+      "~ ages 4 & up",
+      "Tumbling & obstacle courses",
+      "~ ages 4 & up",
+      "Add moon bounce (North Haven location only) - $75 ( for ages 7 and under)",
+      "Add 30 extra minutes to party time - $50 (Party time 3-5pm)",
+      "20 min setup/tear down time",
+      "POPULAR",
+      "BASIC PARTY",
+      "Non-Active",
+      "JT Member",
+      "$379",
+      "BOOK NOW",
+      "*includes 15 children",
+      "Additional guests $20 each. Maximum 24 total",
+      "Full use of facility for 1.5 hour party",
+      "Birthday Party set up options",
+      "Free play",
+      "-1-3 years",
+      "(parents required on mat)",
+      "Obstacle course",
+      "~ ages 3 & up",
+      "Basic Tumbling",
+      "~ ages 4 & up",
+      "Tumbling & obstacle courses",
+      "~ ages 4 & up",
+      "Add moon bounce (North Haven location only) - $75 ( for ages 7 and under)",
+      "Add 30 extra minutes to party time - $50 (Party time 3-5pm)",
+      "20 min setup/tear down time",
+      "PERSONALIZED",
+      "EVENT",
+      "Request Quote",
+      "Need space for your cheer team to squeeze in an extra practice, or a specialized class for your dance group? Or maybe a team building for your company?",
+      "Contact us to get a custom quote for what we offer and pricing.",
+      "Bring Your Own Celebration!",
+      "At Just Tumble CT, we invite you to personalize your party experience! Bring your own decorations, food, drinks, and paper products (please note, we are a peanut-free facility). Enjoy the first hour of activity on our mats, followed by 30 minutes dedicated to food and cake. Once the food is served, guests will need to stay off the mats to ensure a safe and clean environment for everyone.",
+      "What can I bring?",
+      "You can bring decorations, food, drinks, and paper products. Just remember, all food must be peanut-free as we prioritize safety in our facility.",
+      "How long can we use the mats?",
+      "You have one hour of activity time on the mats, followed by 30 minutes for food and cake. After eating, guests must remain off the mats.",
+      "What does Just Tumble provide?",
+      "Just Tumble provides tables and chairs for your convenience. You are welcome to set up your food and decorations around these.",
+      "Is there a limit on the number of guests?",
+      "We recommend checking with our team for any specific capacity limits based on your booking. We want to ensure everyone has a great time!",
+      "Can we have a themed party?",
+      "Absolutely! Feel free to bring decorations that match your theme. We love seeing creative ideas come to life at Just Tumble!",
+      "Safety First!",
+      "At Just Tumble CT, we prioritize the safety and enjoyment of all our guests. By adhering to our peanut-free policy and guidelines, we ensure a fun and secure environment for everyone to celebrate.",
+      "Book Your Party Today!",
+      "#justtumblect",
+      "Follow us on IG @justtumblect"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "ninja": {
+    "title": "\n    Ninja Classes | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "Ninja Classes",
+      "(H.E.R.O.S.)",
+      "HEROS is fitness disguised as fun!",
+      "This high energy program combines obstacle training, tumbling and sports conditioning into an exciting experience for kids! Participants will develop strength, agility and confidence as they learn a combination of vaults, rolls, jumps and kicks while navigating obstacle courses and practicing dynamic training techniques. These classes are designed with a strong emphasis on safety, ensuring children can challenge themselves, build skills and have fun in a supportive and controlled environment",
+      "MINI NINJAS",
+      "45 minute class",
+      "Ages 3.5-5 years",
+      "This class is designed to focus on age appropriate obstacle and sports conditioning training! Children will be developing their gross motor skills through running, jumping, climbing and balancing while also exploring how their bodies move. Our goal in this class is to build strength, coordination and confidence in a playful encouraging environment",
+      "BEGINNER NINJAS",
+      "45\u00a0 minute class",
+      "Ages 5-9 years",
+      "This class is designed for growing athletes. Children will be challenged with dynamic obstacle courses, agility drills and conditioning exercises. Students will work on balance, coordination, and body control while learning how to move with purpose and confidence. the skills developed in this class can be easily transfer to a variety of different sports!",
+      "We are happy to announce that we now have gift certificates! Give a gift to yourself or a friend -- buy one of our virtual Gift Certificates today!",
+      "No account required to purchase gift certificates! They can be used for classes, camps, events or shop items!"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "gymnastics": {
+    "title": "\n    Tumbling Classes | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "TUMBLING CLASSES",
+      "At Just Tumble we\u2019re all about offering awesome tumbling classes for kids of all ages and skill levels! Whether your child is brand new to tumbling or already working on advanced skills, we\u2019ve got them covered. Our certified coaches keep things fun, safe, and super encouraging\u2014helping kids build not just skills, but confidence too. From beginners to experienced tumblers, everyone gets the attention they need to grow and shine.",
+      "BEGINNER TUMBLING",
+      "Beginner Classes 7 and under (45 min class)",
+      "Beginner tumbling is the perfect way to get your athlete started! In this class, they\u2019ll learn the basics of body control, strength, and flexibility while working on beginner tumbling skills like rolls, handstands, cartwheels, and more. We also mix in fun drills using tumbl traks and other training tools to help build confidence and coordination. Classes are 45minutes long and meet once a week\u2014but if your child wants more time to tumble, they\u2019re welcome to sign up for multiple classes!",
+      "Beginner Classes 7 and up (1 hour class)",
+      "These classes concentrate on the fundamentals of tumbling such as rolls, cartwheels, and \u00a0handstands, round offs and backbends. Our fun lesson plans prioritize safety, building strength, balance, and coordination. We tailor our approach to meet each student's unique",
+      "skill set and abilities, making adjustments as needed and pushing students to the best of their abilities.",
+      "These classes are specifically designed for our older students who are on the newer side of tumbling! In these classes we focus on the core fundamentals of tumbling.",
+      "Students will follow fun, structured lesson plans that prioritize safety while also building strength, balance, and coordination. Our teachers will tailor instructions to each individual child\u2019s unique abilities making sure to help every athlete achieve their goals!",
+      "INTERMEDIATE TUMBLING",
+      "60 minute class",
+      "Ages 7-9 years",
+      "Our Intermediate Tumbling class is a great next step for athletes who\u2019ve got the basics down and are ready to level up! In this class, we focus on building strength, control, and technique while learning skills like round-offs, back walkovers, and more advanced progressions. We also use tumbl traks and other fun equipment to boost power and confidence. Classes are 1 hour long, once a week\u2014but if your tumbler can\u2019t get enough, they\u2019re welcome to join multiple classes!",
+      "MIXED LEVEL TUMBLING",
+      "1 hour and 15 minute class",
+      "Ages 7+ years",
+      "Our Mixed Level Tumbling classes are for a mixture of different level athletes who have a solid foundation in basic skills such as forward rolls, cartwheels, and handstands, and are ready to advance to more challenging techniques. This class emphasizes the continued development of strength, body control, and proper technique while introducing skills like round-offs, back handsprings, and advanced progressions. We incorporate the use of tumbl traks and other specialized equipment to support skill development and build athlete confidence. Each class is 1 hour and 15 minutes in duration and held once per week. Athletes are welcome to enroll in multiple sessions to further enhance their training.",
+      "ADVANCED TUMBLING",
+      "1 hour and 15 minute class",
+      "Ages 7+ years",
+      "Advanced Tumbling is where things really get exciting! This class is perfect for athletes who have strong fundamentals and are ready to tackle skills like multiple back handsprings, tucks, aerials, and more. We focus on refining technique, building power, and pushing each tumbler to reach their full potential\u2014safely and confidently. Classes run for 1 hour and 15minutes once a week, and if your athlete wants even more time to train, they can absolutely sign up for extra sessions!",
+      "ELITE TUMBLING - SHELTON LOCATION ONLY",
+      "1 hour and 15 minute class",
+      "Ages 7+ years",
+      "Elite Tumbling is where your athlete can truly level up! This class is designed for experienced tumblers who are ready to push their limits with high-level skills like multiple tumbling passes, layouts, twisting, and advanced combos. We focus on perfecting technique, boosting power, and helping each athlete perform at their absolute best. Classes are 1 hour and 15 minutes long, once a week.",
+      "PRIVATE LESSONS",
+      "30 minutes - 1 Hour",
+      "Private lessons are a great place for your athlete to continue to elevate their tumbling skills with one-on-one instruction. Private lessons provide athletes with individualized coaching focused on their specific skill goals. Each lesson is tailored to the athlete\u2019s needs and utilizes a variety of equipment available in the gym along with personally being spotted and guided by our trained staff. Lessons can be booked in single session or multiple session based on availability. Please read the cancellation and rescheduling policy for private lessons.",
+      "SHELTON",
+      "North Haven",
+      "PRIVATE TEAM CLASSES",
+      "If you have been told to sign up",
+      "SHELTON",
+      "We are happy to announce that we now have gift certificates! Give a gift to yourself or a friend -- buy one of our virtual Gift Certificates today!",
+      "No account required to purchase gift certificates! They can be used for classes, camps, events or shop items!",
+      "We offer a wide variety of programs. Check out everything we have to offer below.",
+      "City skyline",
+      "PRESCHOOL CLASSES",
+      "Ages 1 to 4",
+      "Birthday Sparks",
+      "GYMNASTICS CLASSES",
+      "Ages 5-18",
+      "Fashion Magazine",
+      "NINJA CLASSES",
+      "Ages 5-12",
+      "SUMMER CAMPS",
+      "Ages 5+",
+      "BIRTHDAY PARTIES",
+      "Ages 3+",
+      "SPECIAL EVENTS",
+      "Ages Vary by Event"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "contact": {
+    "title": "\n    Tumbling Gym | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "CONTACT US",
+      "SHELTON",
+      "Find out more about our programs.",
+      "Contact Us",
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible",
+      "Oops, there was an error sending your message.",
+      "Please try again later",
+      "203-654-0031",
+      "415 Howe Avenue, Shelton, Connecticut 06484, United States",
+      "jtshelton@justtumblect.com",
+      "NORTH HAVEN",
+      "Find out more about our programs.",
+      "Contact Us",
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible",
+      "Oops, there was an error sending your message.",
+      "Please try again later",
+      "73 Washington Ave \u2022 North Haven, CT 06473"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "privacy-policy": {
+    "title": "\n    Privacy Policy | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "Privacy Policy for",
+      "Just Tumble",
+      "At",
+      "Just Tumble",
+      ", hereafter referred to as \u201cThe Company\u201d, accessible from",
+      "https://justtumblect.com/",
+      ", one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Company and how we use it.",
+      "If you have additional questions or require more information about our Privacy Policy, do not hesitate to",
+      "contact us",
+      ".",
+      "Log Files",
+      "The Company follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.",
+      "Cookies and Web Beacons",
+      "Like any other website, The Company uses \"cookies\". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other basic public shared information.",
+      "Privacy Policies (If Third Party Ads Are Present)",
+      "You may consult this list to find the Privacy Policy for each of the advertising partners of The Company (if applicable).",
+      "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on The Company, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
+      "Note that The Company has no access to or control over these cookies that are used by third-party advertisers.",
+      "Third Party Privacy Policies",
+      "The Company's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.",
+      "You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.",
+      "Children's Information",
+      "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.",
+      "The Company does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+      "Online Privacy Policy Only",
+      "This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in The Company. This policy is not applicable to any information collected offline or via channels other than this website.",
+      "Consent",
+      "By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions."
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "home": {
+    "title": "\n    Tumbling Gym | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "JUST TUMBLE",
+      "\u2014 Skills And Smiles For Every Child",
+      "...",
+      "Building Happy, Healthy, Responsible Children",
+      "ABOUT US",
+      "Just Tumble Training Facility is the largest hard floor tumbling gym in the NorthEast. Our classes specialize in teaching proper technique for tumbling and ninja/sports conditioning.",
+      "Just Tumble is known as the place to learn for tumbling skills for high school cheer teams",
+      "and dance studio's routines.",
+      "LEARN MORE ABOUT US",
+      "Black silhouette of a person.",
+      "With so many options to choose from, Just Tumble has the perfect class to foster your child's love for tumbling, Pre-school gymnastics, cheerleading, dance, and obstacle course/sports conditioning.",
+      "OUR PROGRAMS",
+      "Black location marker.",
+      "Locations",
+      "Currently we have 2 convenient locations. You can enjoy classes and events at either location or both!",
+      "FIND YOUR CLASS LOCATION",
+      "So Much to Love about Just Tumble",
+      "FEATURED PROGRAMS",
+      "TUMBLING",
+      "Tumbling classes are designed for beginners through advanced athletes, with skill progressions tailored to each individual\u2019s ability. Whether you're learning your first cartwheel or perfecting your back handspring, this class helps build strength, confidence, and technique at every stage.",
+      "ENROLL NOW",
+      "PRIVATE LESSONS",
+      "Private lessons are the perfect way to enhance your regular tumbling or training classes. They can focus on school or college tryout prep, mastering specific tumbling skills, or improving jumps and stunts. Our instructors will assess your current abilities and create a personalized plan to help you reach your goals.",
+      "BOOK ONLINE",
+      "CAMPS & CLINICS",
+      "Our",
+      "Camps and Clinics",
+      "program offers athletes the perfect opportunity to sharpen their tumbling and cheer skills in a fun, focused environment. Each session is designed to build strength, confidence, and technique through drills, challenges, and individualized coaching.",
+      "REGISTER NOW",
+      "PRESCHOOL",
+      "An open gym experience that gives little ones the chance to move, climb, and explore in a safe, clean and engaging environment",
+      "Start Your Child\u2019s Journey Today",
+      "NINJA/H.E.R.O.S.",
+      "Unleash your athlete's potential with our",
+      "High-Energy, Rapid Training and",
+      "conditioning",
+      "program! Using dynamic",
+      "Obstacle",
+      "and Ninja-style techniques",
+      ", we help current and future",
+      "Sports",
+      "heroes build strength, speed, and confidence \u2014 transforming them into the athletes they aspire to be!",
+      "H.E.R.O.S",
+      "Act Fast, Limited Spaces",
+      "BIRTHDAY PARTIES/EVENTS",
+      "Have your celebrate their\u00a0 big day with us! Our",
+      "Birthday Parties and Events",
+      "combine fun, games, and tumbling excitement in a safe, high-energy environment. Kids can jump, flip, and play while our staff handles the all the activities, and cleanup\u2014making it an unforgettable, stress-free celebration!",
+      "Learn More",
+      "TRAINING",
+      "At Just Tumble, we\u2019re all about fun, flips, and fearless confidence!",
+      "Whether you're just starting out or chasing elite-level skills, we\u2019ve got something for every age and level. From the very first roll to jaw-dropping tumbles, we do it ALL \u2014 and we make sure every athlete builds strength, skill, and unshakable confidence along the way!",
+      "LEARN MORE",
+      "CAMPS",
+      "Hold onto your hats, folks, because our year-round camp and clinic buffet is about to knock your socks off! Whether you\u2019re chasing summer rays, sneaking off for some track-out shenanigans, or diving into holiday hijinks that would make Santa giggle, we\u2019ve got the goods! Check out our fabulous selection below and prepare to unleash your inner camper\u2014you know, the one that\u2019s been dormant since you burned your marshmallow at age eight!",
+      "REGISTER NOW",
+      "Testimonials",
+      "At Just Tumble we believe in small student-to-instructor ratios which is among the lowest not just in Connecticut but the nation. We believe this provides your child the attention that they need thus nurturing confidence and skill development.",
+      "Two black quotation marks.",
+      "\"Can\u2019t say enough about this place! Just tumble is easily the best tumbling gym in the northeast! The staff goes above and beyond to accommodate and work with their students! Once you walk through those doors you\u2019ll never want to go to another gym ever again! Doesn\u2019t matter if your old or young Sara and the rest of the staff are the best of the best and really make you feel at home! I\u2019d leave a 10 star review if I could!\"",
+      "Mike C.",
+      "from google reviews",
+      "\u201cMy daughter has attended a few gyms in the area but Just Tumble is superior.  It is a well organized facility and the staff is knowledgeable and friendly. Tumbling classes, privates, camps - I recommend it all!\u201d",
+      "Lindsay C.",
+      "google reviews",
+      "What a wonderful location to get your kids started! The instructors Sara and Marissa are so wonderful and really get them excited with different activities each week! They do cute activities during the holidays also. They are so kind and I highly recommend coming here! The facility and equipment is clean and new too!",
+      "Valerie P.",
+      "Download Our App",
+      "We are happy to announce that we now have a mobile application that makes it easier than ever for you to enroll, check your student's attendance, book parties and more \u2014 all on the go!",
+      "Enable push notifications and never miss an announcement from us again! We are excited to share our new app with you and hope that you enjoy staying connected on the go.",
+      "#justtumblect",
+      "Follow us on IG @justtumblect",
+      "#tumbling #gymnastics #cheerleading #backhandspring #goals",
+      "Ninja H.E.R.O.S.",
+      "@justtumblect",
+      "Day Off from School SKILL CLINCS - 9/21, 10/12, 11/3, 11/27, Christmas Vaca\u2026.MLK 1/18, Presidents Day 2/15, Good Friday 3/26\u2026..Back Handsprings, Walkovers, Cartwheels, Tucks, Aerials, Open Gym #tumbling #tumble #gymnastics #cheerleading #backtoschool",
+      "Sign up now for CLASSES and CLINICS #tumbling #tumble #conditioning #cheerleading #goal",
+      "Another successful year of summer camps in the books! Be sure to check the lost & found bin \ud83d\ude0a",
+      "#gymnastics #tumbling #cheer #tumblers #goals Classes are filling fast for FALL \ud83c\udf41Get signed up now to hold your spot!!!",
+      "Sign up now for Ninja HEROES - Speed, Strength, Coordination, Agility, Balance, Flexibility, Teamwork! #tumbling #ninja #sportsconditioning #activitiesforkids #kidssports",
+      "#tumbling #tumble #gymnastics #skills #kidsfitness",
+      "#tumbling #tumble #gymnastics #cheer #tumblers",
+      "#tumbling #tumble #gymnastics #cheer #tumblingclasses",
+      "Parent & Me Play Group and Tots Classes!  Build strength, balance, coordination while gaining social skills like sharing and listening to directions \ud83d\ude0a #tumbling #mommyandme #parentandme #toddlermomlife #baby",
+      "Skills\ud83e\udd38\u200d\u2640\ufe0f& Smiles \ud83d\ude0a @justtumblect Sign up for CLASSES, CAMPS, CLINICS, Private Lessons, Open Gym, Birthday Parties, Special Events \ud83d\ude4c #tumbling #tumble #gymnastics #cheerleading #summercamp",
+      "We love our supportive staff @justtumblect \ud83d\udc93",
+      "#tumbling #tumble #conditioning #summercamp #fitness",
+      "#tumbling #acro #acrodance #dance #summercamp Dancer Skill Camps & Clinics at both locations. Sign up now to ensure your spot!",
+      "#ninja #sportsconditioning #speed #agility #summercamp",
+      "#tumbling #tumble #gymnastics #summercamp #goals",
+      "Achieve & perfect skills at Just Tumble!! Sign up now to take your skills to the next level. #tumbling #backhandspring #tumble #gymnastics #cheerleading @justtumblect",
+      "Walkover Week July 6th - 10th, 12:15 - 3:15 pm BOTH LOCATIONS ~ achieve & improve skills ~ sign up online! #tumbling #walkover #summercamp #gymnastics",
+      "#tumbling #gymnastics #cheerleading #summercamp #tumblers @justtumblect",
+      "#tumbling #gymnastics #tumblers #tumblingislife #goals @justtumblect Sign up online to take your skills to the next level!!!",
+      "#tumbling #gymnastics #backhandspring #skills #camp Consistency = SKILLS @justtumblect",
+      "@justtumblect Wishing everyone a wonderful holiday \ud83c\uddfa\ud83c\uddf8",
+      "#tumbling #gymnastics #summercamp #summer #cheerleading Visit our website for a full schedule of summer camps",
+      "#summercamp #tumbling #summer #summerfun #tumble",
+      "Camps, Classes, Clinics, Private Lessons ALL SUMMER long @justtumblect #tumbling #gymnastics #summertime #summercamp",
+      "#summer #summercamp #camp #tumble #tumbling \u2600\ufe0fMake new friends ~ learn new skills ~ have a blast \ud83c\udf89 repeat each week @justtumblect",
+      "#tumbling #tumble #gymnastics #cheerleading @justtumblect",
+      "#tumbling #gymnastics #aerial #tumble #tumbler",
+      "#tumbling #tumble #gymnastics #cheerleading #summercamp @justtumblect",
+      "Happy Mother\u2019s Day\ud83c\udf37#mothersday #mom #mother #momsrock",
+      "At Just Tumble, it\u2019s more than learning tumbling! It\u2019s about building strength & confidence and so much more \ud83d\ude4c#tumbling #tumble #gymnastics #cheer #summercamp",
+      "#tumbling #tumble #gymnastics #summercamp #tumblers",
+      "Our 14th year of JUST TUMBLE SUMMER CAMPS \u2600\ufe0f Half Day, Full Day, Early Drop Off, Late Pick up options available. Perfect and Master NEW SKILLS while having a blast all Summer long! Sign up now to secure your spot!",
+      "#backhandspring #backhandsprings #tumbling #gymnastics #summercamp",
+      "Full Day & Half Day Camp options. Early drop off & late pick up. Achieve skills while making new friends and building confidence \ud83d\ude4c #camps #summercamps #activitiesforkids #goals #tumbling",
+      "Classes ~ Camps ~ Clinics ~ Private Lessons",
+      "#tumble #tumbling #gymnastics #skills",
+      "Ninja (H.E.R.O.S.) Classes and Summer Camps at both locations. #sportsconditioning #kidsfitness #kidsactivities #fitness #speed",
+      "#tumble #toddler #preschool #kids #gymnastics Tumble Tots Classes at both locations promote socialization, strength & smiles \ud83d\ude00sign up online",
+      "#Tumble #tumbling #gymnastics #backhandspring #roundoffbackhandspring",
+      "Parents Night Out Open Gym Friday February 13th \u2764\ufe0f Sign up online ~ Space is limited",
+      "Sign up for Tumbling Clinics & Open Gym online. Space is limited to provide individual attention \ud83d\ude4c #tumble #tumbling #cheer #gymnastics #backhandspring",
+      "Wishing everyone a magical holiday season \ud83c\udf84",
+      "Play Group @justtumblect at both locations. #toddler #toddlers #gymnastics #tumble #tumbling #kidsfitness #toddlerfun #activities #activitiesforkids #activitiesfortoddlers #mommyandmeclasses",
+      "Have a safe and blessed Thanksgiving week \ud83e\udd83\ud83e\udd67\ud83d\udc97 @justtumblect",
+      "Skills, skills, skills @justtumblect #tumble #tumbling #gymnastics #cheerleading #cheer #tumblers #backhandspring #backwalkover #backbend #floor #cheerleading #cheer #acro #acrobatics #dance",
+      "Get and perfect your skills with CLASSES and CLINICS @justtumblect #tumble #tumbling #cheer #gymnastics #cheerleading #tumblers #skills #learntotumble #backhandsprings #backtucks",
+      "#tumble #tumbling #gymnastics #cheerleading #cheer #justtumblect #tumblers #backhandspring #backtuck #conditioning #skills  #practicemakesprogress Take your skills to the next level @justtumblect",
+      "Wishing everyone a safe & relaxing holiday weekend \ud83c\uddfa\ud83c\uddf8\ud83c\udf54\ud83d\ude34 Regular hours will resume Tuesday 9/2, 9:30 am ~ Online sign ups available 24/7",
+      "Ninja /Sports Conditioning classes @justtumblect increase speed, strength, agility, coordination, flexibility, power, team work\u2026 #tumble #ninja #sportsconditioning #conditioning #fitnessdisguisedasfun #kidsfitness #activities #activitiesforkids #connecticut #active #\ufb01tness #fun",
+      "Achieve SKILLS @justtumblect with CLASSES, CAMPS, CLINICS & Private Lessons #tumble #tumbling #gymnastics #cheer #cheerleading #backhandspring #backtuck #roundoffbackhandspring #training #practice #goals #putinthework",
+      "Champions are made in the off season \ud83d\udcaa #Cheer #cheerleading #cheergoals #tumble #tumbling #stunting #pyramid #jumps #cheerskills #team #offseasontraining #offseason #backhandspring #backtuck #deadmat #highschool",
+      "Don\u2019t wait another minute - get into Just Tumble to achieve more than you ever thought possible!!! Classes, Camps, Clinics, Private Lessons #tumble #tumbling #gymnastics #cheer #cheerleading #summercamp #summercamps #tumblers #backhandspring #roundoffbackhandspring #acro #dance #summer #summerfun #achieveyourgoals",
+      "#tumble #tumbling #gymnastics #cheerleading #cheer #justtumblect #summercamp #summercamps #tumblers #walkovers #backwalkover #frontwalkover #summer #summerfun #activitiesforkids #childrensactivities",
+      "Summer Camps & Classes continue @justtumblect #tumbling #tumble #tumblers #gymnastics #floorwork #summercamp #summercamps #summerfun #summer #activitiesforkids #walkover #backwalkover #frontwalkover #cheer #cheerleading #acro",
+      "#tumble #tumbling #gymnastics #cheerleading #cheer #justtumblect #summercamp #summercamps #tumblers #backhandspring #cartwheel #handstand #backbend #backtuck #ninja #sports #sportsconditioning #summer #summerfun #activitiesforkids",
+      "Just Tumble has classes and private lessons 7 days a week at 2 convenient locations with the most AMAZING staff \ud83d\ude0a Nothing compares to their knowledge, experience and big hearts \ud83d\udc97 Summer Camps and Clinics run seasonally \u2600\ufe0f sign up online  #tumble #tumbling #gymnastics #cheer #cheerleading #ninja #sportsconditioning #summer #summertime #summercamps #exercise #funforkids #activities #activiesforkids #skills #buildselfconfidence",
+      "#tumble #tumbling #tumblecamp #gymnastics #cheer #cheerleading #dance #acro #summercamp #camps #summer #kidsfitness #fun #activitiesforkids #skills",
+      "#tumble #tumblingislife #tumbling #tumblers #gymnastics #cheer #cheerleading #dance #acro #summercamp #summertime #summer #camp #flip #backhandspring #cartwheel #handstand",
+      "#tumble #tumbling #gymnastics #cheer #cheerleading #summercamp #summercamps #camps #camp #ninja #sportsconditioning #flip #backhandspring #kidsfitness #activitiesforkids",
+      "Ninja/Sports Conditioning Camps at Just Tumble are a great way for young athletes to improve speed, agility, strength, coordination, power, flexibility, balance, focus, team work and more while having fun and making new friends. #ninja #sportsconditioning #summercamp #summer #summercamps #youthsportstraining #fitkids #kidsfitness #kidsactivites",
+      "Our top notch, experienced staff is here to help you achieve all of your goals. With the consistency of classes, camps, clinics and private lessons, you can master all of your skills. #tumble #tumbling #tumblers #gymnastics #acro #dance #summercamps #summercamp #summer #camp #ninja #sportsconditioning #kidsfitness #activities #activitiesforkids",
+      "#tumble #tumbling #gymnastics #cheer #cheerleading #ninja #sportsconditioning #summer #summercamp #summercamps #camp #levelup #activiesforkids #\ufb01tness #kidsfitness",
+      "#tumble #tumbling #gymnastics #summercamp #summercamps #summer #camp #camps #cheer #learntocheer #dance #acro #ninja #sportsconditioning #funforkids #activitiesforkids #activitiesforchildren",
+      "After 13 years of outstanding Summer Camps at Just Tumble, our students grow up and return as instructors. TWO, 10,000 sq ft locations, all fully AIR CONDITIONED\ud83d\udca8\ud83e\uddca all of the latest equipment and learning tools and the BEST STAFF!!! #tumble #tumbling #gymnastics #cheer #acro #dance #ninja #sportsconditioning #summerfun #summer #summercamp #summercamps #camps #funforkids #activitiesforkids #learntotumble",
+      "#tumble #tumbling #gymnastics #cheer #cheerleading #coach #tumblingcoach #cheercoach",
+      "#tumble #tumbling #gymnastics #cheer #cheerleading #dance #acro #ninja #sportconditioning #summercamps #summercamp #camp",
+      "We can\u2019t say enough about our amazing staff! #tumble #tumbling #gymnastics #summercamp #summercamps #camp #camps #summer #levelup #getskills #dance #acro #backhandspring #backtuck #backwalkover #ninja #sportsconditioning",
+      "Consistency = Skills \ud83d\udcaa Smash your goals with Classes, Camps & Clinics. #tumble #tumbling #gymnastics #backhandspring #backtuck #runningtumbling #cheer #cheerleading #dance #acro #tumblingislife #tumblers",
+      "Our amazing staff is here to help every student reach their goals. With programs 7 days a week, day and night in 2 great locations, 10,000 sq ft each, fully AIR CONDITIONED with state of the art equipment. We have something for all ages; babies through college age students. #summer #summercamp #summercamps #camp #camps #tumble #tumbling #gymnastics #cheer #cheerleading #dance #ninja #sportsconditioning  #summerfun #kidsfitness",
+      "#tumble #tumbling #gymnastics #cheer #cheerleading #dance #acro #backhandspring #backwalkover #summer #summercamps #summercamp #ninja #sportsconditioning #kidsfitness",
+      "View more"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "employee-application": {
+    "title": "\n    Employment Application | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "EMPLOYMENT APPLICATION",
+      "We are looking for enthusiastic people interested in gymnastics, ninja, party hostess and front desk positions. Our staff plays a vital role in the development of our students. Positions are part-time and full-time with the opportunity to grow. If interested in applying for employment please complete the application below. In addition, to be considered for hire at American Gym Stars, you are required to supply three character references who will attest to your suitability for employment. Character references MUST be on file before you will be considered for an interview.",
+      "Employee Application",
+      "Todays Date",
+      "First Name",
+      "Last Name",
+      "Address",
+      "Address 2",
+      "City",
+      "State",
+      "Phone:",
+      "Email:",
+      "How did you hear about us?",
+      "Job Information",
+      "JOB INFORMATION",
+      "Position Applying For:",
+      "Position applying for:",
+      "the position options",
+      "Preschool Instructor",
+      "Tumbling Instructor",
+      "Gymnastics Instructor",
+      "Dance Instructor",
+      "Ninja Instructor",
+      "School Squad Instructor",
+      "Front Desk",
+      "All-Star Cheer Team Coach",
+      "All-Star Dance Team Coach",
+      "Gymnastics Team Coach",
+      "Power Tumbling team Coach",
+      "Summer Camp Staff",
+      "Party host",
+      "Program Director",
+      "Manager",
+      "Other",
+      "Expected pay rate per hour",
+      "Work Week",
+      "Preferred Start Date",
+      "What type of commitment are you looking for?",
+      "Short Term",
+      "1 year",
+      "2 years",
+      "Long Tern",
+      "Are you over 18 years of age? If not, you are required to obtain working papers.",
+      "Yes",
+      "No",
+      "Are you currently employed?",
+      "Yes",
+      "No",
+      "May we contact your current employer?",
+      "Yes",
+      "No",
+      "Do you have your own car or dependable way to work?",
+      "Yes",
+      "No",
+      "EDUCATION",
+      "EDUCATION",
+      "Education",
+      "High School",
+      "College",
+      "Other",
+      "Describe honors, apprenticeships or specialized training.",
+      "EMPLOYMENT EXPERIENCE",
+      "EMPLOYMENT EXPERIENCE - start with your present or most recent job.",
+      "EMPLOYMENT EXPERIENCE - start with your present or most recent job.",
+      "Company Address",
+      "Company Address 2",
+      "Company City",
+      "Company State",
+      "Company Phone Number",
+      "Date Started",
+      "Date Ended",
+      "Starting Wage/Salary",
+      "Final Wage/Salary",
+      "Name of immediate supervisor",
+      "Current Employment",
+      "Current Employment",
+      "Current Employment with Company:",
+      "I am no longer at this company",
+      "I am currently employed at this company and it is OK to contact this person",
+      "I am currently employed at this company, please DO NOT contact this person",
+      "Describe your duties and responsibilities",
+      "I would like to share additional work experience",
+      "PERSONAL QUALITIES",
+      "PERSONAL QUALITIES",
+      "Describe the qualities you have which will enable you to do the job you are applying for. Please be thorough.",
+      "REFERENCES",
+      "REFERENCES Please give us the names of at least three pfrofessional references (not friends or family) that you have know for over one year.",
+      "First Reference",
+      "First Reference",
+      "First Reference First Name",
+      "First Reference Last Name",
+      "1st reference phone number",
+      "1st Reference Relation to you",
+      "1st Ref Years Known",
+      "Free Text",
+      "Second Reference",
+      "2nd reference First Name",
+      "2nd ref last Name",
+      "2nd ref Phone Number",
+      "2nd ref Relation to you",
+      "2nd Ref Years Known",
+      "Third Reference",
+      "Third Reference",
+      "3rd ref First Name",
+      "3rd ref last Name",
+      "3rd ref Phone Number",
+      "3rd ref Relation to You",
+      "3rd ref Year Known",
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible.",
+      "Oops, there was an error sending your message.",
+      "Please try again later."
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "preschool": {
+    "title": "\n    Preschool Tumbling Classes | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "PLAY GROUP AND",
+      "PRESCHOOL CLASSES",
+      "TUMBLE TOTS PLAYGROUP",
+      "45 minute class",
+      "Ages 0 - 3 years",
+      "This open gym time gives little ones the chance to move, climb, and explore in a safe, clean",
+      "and engaging environment. Children can develop important physical and social skills through",
+      "free play, while adults enjoy the opportunity to connect, make friends and build community.",
+      "It\u2019s the perfect blend of active fun for the kids and meaningful connections for all caregivers",
+      "alike!",
+      "Tumble Tots ages 2.5-4",
+      "45 minute class",
+      "Ages 2.5 - 4 years",
+      "Introduce your young athlete to the world of tumbling in the best way possible. Our classes",
+      "are built around safe, structured FUN. Our goal is to show our students how to move their",
+      "bodies safely and effectively while building strength, flexibility, and coordination. Learn how",
+      "to roll, jump, flip and more!",
+      "These classes are an introduction to the world of tumbling for our",
+      "youngest athletes. In these structured classes children will explore the basics of body",
+      "movement such as rolling, jumping and balancing while developing coordination and body",
+      "awareness. Tumble Tots is a fun way to build confidence, independence and love for",
+      "movement at an early age!",
+      "We are happy to announce that we now have gift certificates! Give a gift to yourself or a friend -- buy one of our virtual Gift Certificates today!",
+      "No account required to purchase gift certificates! They can be used for classes, camps, events or shop items!"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "summer-camps": {
+    "title": "\n    Summer Camps | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "SUMMER CAMP",
+      "Summer Camps run Mondays through Fridays every summer.",
+      "9:00 am - 12:00 pm ages 5-13",
+      "12:15 pm - 3:15 pm Specialty camps for ages 5 - 18",
+      "END OF SUMMER EVENT",
+      "TWO WEEK CLASS",
+      "Summer camp runs Monday-Friday. Campers must be ages 6+ to attend 9am-4:30pm camps. Campers ages 3-5 are invited to join from 9am-12:30pm.",
+      "Each week will focus on a different camp theme (check them out below!). Camp will consist of gymnastics classes, theme-related crafts, summertime games, a show-and-tell performance, and more!"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "shelton-embed": {
+    "title": "\n    Private Tumbling Lessons | Just Tumble CT | Shelton\n  ",
+    "lines": [],
+    "portal": "",
+    "status": 0
+  },
+  "north-haven-embed": {
+    "title": "\n    Private Tumbling Lessons | Just Tumble CT | N. Haven\n  ",
+    "lines": [],
+    "portal": "",
+    "status": 0
+  },
+  "shelton-party/event-waiver": {
+    "title": "\n    Event Waiver | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [],
+    "portal": "",
+    "status": 0
+  },
+  "shelton-party/north-haven-party/event-waiver": {
+    "title": "\n    Event Waiver for Tumbling | Just Tumble CT | North Haven\n  ",
+    "lines": [],
+    "portal": "",
+    "status": 0
+  },
+  "clinics94d36367": {
+    "title": "\n    Tumbling Clinics | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "Clinics",
+      "TUMBLING CLINICS",
+      "We have tumbling clinics multiple times per year",
+      "Our",
+      "Holiday and School Break Clinics",
+      "are some of Just Tumble\u2019s most popular events!",
+      "From",
+      "walkovers",
+      "to",
+      "aerials",
+      ", we offer a variety of skill-focused clinics at both locations.",
+      "Spots fill up quickly so",
+      "register early",
+      "to secure your place and keep the fun going even when school\u2019s out!",
+      "Cheerleading and Stunting Clinics",
+      "Just Tumble offers Cheerleading Skill Clinics during summer camp and throughout the year!",
+      "Click below to see upcoming dates and join the fun!",
+      "JUST TUMBLE SKILL CLINICS",
+      "As for stunting we have partnered up with the amazing company",
+      "Movement For Cheerleaders.",
+      "These clinics are held at one of our 2 facilities as well as other locations.",
+      "Click below to go to their website.",
+      "MOVEMENT FOR CHEERLEADERS"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "weather-announcement": {
+    "title": "\n    Tumble Training Facility | Just Tumble CT | North Haven & Shelton, CT\n  ",
+    "lines": [
+      "CONTACT US",
+      "SHELTON",
+      "Find out more about our programs.",
+      "Contact Us",
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible",
+      "Oops, there was an error sending your message.",
+      "Please try again later",
+      "203-654-0031",
+      "415 Howe Avenue, Shelton, Connecticut 06484, United States",
+      "jtshelton@justtumblect.com",
+      "NORTH HAVEN",
+      "Find out more about our programs.",
+      "Contact Us",
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible",
+      "Oops, there was an error sending your message.",
+      "Please try again later",
+      "73 Washington Ave \u2022 North Haven, CT 06473"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "thank-you---north-haven": {
+    "title": "\n    Tumble Training Facility | Just Tumble CT | North Haven\n  ",
+    "lines": [
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "camps": {
+    "title": "\n    Summer Camps | Just Tumble CT | North Haven & Shelton CT\n  ",
+    "lines": [
+      "SUMMER CAMP BASH",
+      "Summer Camps run Mondays through Fridays every summer.",
+      "9:00 am - 12:00 pm ages 5-13",
+      "12:15 pm - 3:15 pm Specialty camps for ages 5 - 18",
+      "HAVE A BLAST AT SUMMER CAMP",
+      "END OF SUMMER EVENT",
+      "TWO WEEK CLASS",
+      "Summer camp runs Monday-Friday. Campers must be ages 6+ to attend 9am-4:30pm camps. Campers ages 3-5 are invited to join from 9am-12:30pm.",
+      "Each week will focus on a different camp theme (check them out below!). Camp will consist of gymnastics classes, theme-related crafts, summertime games, a show-and-tell performance, and more!"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "thank-you---shelton": {
+    "title": "\n    Tumble Training Facility | Just Tumble CT | Shelton CT\n  ",
+    "lines": [
+      "Thank you for contacting us.",
+      "We will get back to you as soon as possible"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "shelton-party/north-haven-party/copy-of-north-haven-party/event-waiver": {
+    "title": "\n    Event Waiver for Tumbling | Just Tumble CT | North Haven\n  ",
+    "lines": [
+      "Loading&amp;hellip;"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "booking-dashboard--location-selector": {
+    "title": "Booking Dashboard: Location Selector\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "camp-a-palooza-camps": {
+    "title": "camp-a-palooza-camps",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "clinics": {
+    "title": "Clinics\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "coming-soon": {
+    "title": "Coming Soon\n",
+    "lines": [
+      "Coming Soon!",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Newsletter Sign Up"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "employment-application": {
+    "title": "employment-application",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "fly-kids-ninja": {
+    "title": "fly-kids-ninja",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "follow-us": {
+    "title": "follow-us",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "free-trial-signup": {
+    "title": "free-trial-signup",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "gallery": {
+    "title": "gallery",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "location-selector": {
+    "title": "Location Selector\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "ninja--beg": {
+    "title": "NINJA:  BEG\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "ninja--minis": {
+    "title": "NINJA: Minis\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "parties--location-selector": {
+    "title": "Parties: Location Selector\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "programs": {
+    "title": "programs",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "ps--play-group--location-selector": {
+    "title": "PS: Play Group-  Location Selector\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "ps--tumble-tots--location-selector": {
+    "title": "PS: Tumble Tots-  Location Selector\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "sparc-speed-agility": {
+    "title": "sparc-speed-agility",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "special-events": {
+    "title": "special-events",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "the-swim-school-at-kids-first": {
+    "title": "the-swim-school-at-kids-first",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "tumble-bees": {
+    "title": "tumble-bees",
+    "lines": [],
+    "portal": "",
+    "status": 56
+  },
+  "tumbling--adv": {
+    "title": "Tumble:  ADV\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "tumbling--beg": {
+    "title": "Tumble:  BEG\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "tumbling--int": {
+    "title": "Tumble: INT\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  },
+  "tumbling--mixed": {
+    "title": "Tumble: MIXED\n",
+    "lines": [
+      "Select Location",
+      "Show your message in a popup",
+      "and site visitors are sure to see it!",
+      "Shelton",
+      "North Haven"
+    ],
+    "portal": "",
+    "status": 0
+  }
+}
